@@ -1,0 +1,2082 @@
+ TH&&4
+THE&&4
+HE &&3
+E T&&2
+ TR&&1
+TRA&&1
+RAG&&1
+AGE&&1
+GED&&1
+EDY&&1
+DY &&1
+Y O&&1
+ OF&&4
+OF &&4
+F R&&1
+ RO&&1
+ROM&&1
+OME&&1
+MEO&&1
+EO &&1
+O A&&1
+ AN&&5
+AND&&4
+ND &&4
+D J&&1
+ JU&&1
+JUL&&1
+ULI&&1
+LIE&&1
+IET&&1
+ET &&1
+T b&&1
+ by&&2
+by &&1
+y W&&1
+ Wi&&7
+Wil&&2
+ill&&12
+lli&&3
+lia&&2
+iam&&1
+am &&5
+m S&&1
+ Sh&&1
+Sha&&1
+hak&&1
+ake&&11
+kes&&3
+esp&&1
+spe&&1
+pea&&4
+ear&&9
+are&&6
+re &&10
+e D&&1
+ Dr&&3
+Dra&&3
+ram&&3
+ama&&1
+mat&&1
+ati&&2
+tis&&4
+is &&19
+s P&&1
+ Pe&&2
+Per&&1
+ers&&8
+rso&&1
+son&&6
+ona&&6
+nae&&1
+ae &&1
+e C&&3
+ Ch&&3
+Cho&&3
+hor&&3
+oru&&2
+rus&&4
+us.&&2
+s. &&13
+. E&&9
+ Es&&2
+Esc&&2
+sca&&4
+cal&&3
+alu&&2
+lus&&2
+us,&&4
+s, &&20
+, P&&3
+ Pr&&6
+Pri&&5
+rin&&5
+inc&&5
+nce&&9
+ce &&8
+e o&&11
+ of&&34
+of &&32
+f V&&2
+ Ve&&4
+Ver&&5
+ero&&5
+ron&&5
+na.&&2
+a. &&3
+. P&&6
+ Pa&&3
+Par&&2
+ari&&3
+ris&&2
+is,&&1
+, a&&17
+ a &&8
+a y&&1
+ yo&&21
+you&&21
+oun&&3
+ung&&1
+ng &&7
+g C&&1
+ Co&&1
+Cou&&1
+unt&&2
+nt,&&1
+t, &&12
+, k&&2
+ ki&&3
+kin&&3
+ins&&6
+nsm&&3
+sma&&2
+man&&5
+an &&6
+n t&&7
+ to&&38
+to &&35
+o t&&6
+ th&&86
+the&&63
+he &&32
+e P&&2
+ce.&&4
+e. &&23
+. M&&7
+ Mo&&15
+Mon&&15
+ont&&15
+nta&&15
+tag&&15
+agu&&14
+gue&&14
+ue,&&3
+e, &&13
+, h&&4
+ he&&9
+hea&&8
+ead&&6
+ads&&8
+ds &&8
+s o&&11
+f t&&18
+ tw&&6
+two&&6
+wo &&7
+o h&&4
+ ho&&11
+hou&&20
+ous&&11
+use&&8
+ses&&3
+es &&10
+s a&&6
+ at&&8
+at &&16
+t v&&2
+ va&&3
+var&&2
+ria&&4
+ian&&4
+anc&&6
+e w&&13
+ wi&&22
+wit&&12
+ith&&13
+th &&18
+h e&&2
+ ea&&3
+eac&&5
+ach&&2
+ch &&5
+h o&&2
+ ot&&3
+oth&&7
+her&&9
+er.&&6
+r. &&17
+. C&&5
+ Ca&&15
+Cap&&15
+apu&&13
+pul&&13
+ule&&13
+let&&16
+et,&&3
+. A&&14
+ An&&5
+An &&3
+n o&&6
+ ol&&1
+old&&3
+ld &&7
+d M&&3
+ Ma&&3
+Man&&2
+an,&&2
+n, &&10
+, o&&4
+et &&6
+t f&&3
+ fa&&3
+fam&&1
+ami&&1
+mil&&1
+ily&&1
+ly.&&1
+y. &&4
+. R&&2
+ Ro&&4
+Rom&&4
+ome&&9
+meo&&4
+eo,&&1
+o, &&8
+, s&&18
+ so&&1
+on &&5
+o M&&4
+ue.&&3
+. T&&17
+ Ty&&5
+Tyb&&5
+yba&&3
+bal&&3
+alt&&6
+lt,&&2
+, n&&4
+ ne&&6
+nep&&3
+eph&&3
+phe&&3
+hew&&3
+ew &&4
+w t&&5
+o L&&2
+ La&&5
+Lad&&4
+ady&&4
+dy &&5
+y C&&3
+et.&&8
+t. &&18
+ Me&&2
+Mer&&1
+erc&&1
+rcu&&1
+cut&&2
+uti&&2
+tio&&1
+io,&&2
+e a&&5
+ an&&24
+and&&25
+nd &&24
+d f&&3
+ fr&&6
+fri&&2
+rie&&2
+ien&&4
+end&&6
+d t&&10
+o R&&3
+eo.&&2
+o. &&6
+. B&&6
+ Be&&5
+Ben&&5
+env&&3
+nvo&&3
+vol&&3
+oli&&3
+lio&&4
+eo &&1
+o T&&1
+. F&&4
+ Fr&&6
+Fri&&2
+iar&&2
+ar &&5
+r L&&1
+Lau&&1
+aur&&1
+ure&&2
+ren&&4
+enc&&2
+ce,&&2
+, F&&3
+Fra&&2
+ran&&3
+nci&&3
+cis&&2
+isc&&2
+can&&2
+an.&&3
+n. &&12
+r J&&1
+ Jo&&1
+Joh&&2
+ohn&&2
+hn,&&1
+ Ba&&2
+Bal&&2
+lth&&2
+tha&&4
+has&&2
+asa&&2
+sar&&2
+ar,&&1
+r, &&8
+ se&&9
+ser&&6
+erv&&8
+rva&&6
+van&&6
+ant&&10
+nt &&8
+t t&&18
+ Ab&&6
+Abr&&7
+bra&&2
+am,&&1
+m, &&2
+. S&&17
+ Sa&&25
+Sam&&24
+amp&&24
+mps&&4
+pso&&4
+on,&&1
+o C&&4
+. G&&17
+ Gr&&20
+Gre&&20
+reg&&20
+ego&&5
+gor&&5
+ory&&5
+ry,&&3
+y, &&10
+Pet&&1
+ete&&1
+ter&&16
+er,&&4
+o J&&2
+ Ju&&3
+Jul&&3
+uli&&3
+lie&&5
+iet&&3
+et'&&1
+t's&&1
+'s &&4
+s n&&3
+ nu&&1
+nur&&1
+urs&&3
+rse&&2
+se.&&1
+n A&&1
+ Ap&&1
+Apo&&1
+pot&&1
+hec&&1
+eca&&1
+car&&2
+ary&&1
+ry.&&2
+ Th&&14
+Thr&&1
+hre&&2
+ree&&2
+ee &&4
+e M&&2
+ Mu&&1
+Mus&&1
+usi&&1
+sic&&1
+ici&&2
+cia&&1
+ans&&3
+ns.&&3
+n O&&1
+ Of&&2
+Off&&2
+ffi&&4
+fic&&4
+ice&&3
+cer&&3
+. L&&3
+y M&&1
+, w&&7
+wif&&2
+ife&&8
+fe &&2
+e t&&19
+. J&&1
+, d&&3
+ da&&2
+dau&&1
+aug&&2
+ugh&&3
+ght&&5
+hte&&1
+er &&14
+r t&&11
+. N&&6
+ Nu&&1
+Nur&&1
+se &&13
+ Ci&&3
+Cit&&3
+iti&&3
+tiz&&3
+ize&&3
+zen&&3
+ens&&5
+ns &&4
+na;&&2
+a; &&2
+; G&&1
+ Ge&&2
+Gen&&2
+ent&&7
+ntl&&2
+tle&&3
+lem&&1
+eme&&2
+men&&13
+en &&9
+n a&&5
+d G&&2
+lew&&1
+ewo&&1
+wom&&2
+f b&&1
+ bo&&2
+bot&&2
+h h&&2
+es;&&2
+s; &&2
+; M&&2
+Mas&&1
+ask&&1
+ske&&1
+ker&&2
+rs,&&2
+, T&&2
+ To&&2
+Tor&&1
+orc&&1
+rch&&1
+chb&&1
+hbe&&1
+bea&&4
+rer&&1
+Pag&&1
+age&&6
+ges&&1
+es,&&3
+, G&&1
+ Gu&&1
+Gua&&1
+uar&&5
+ard&&2
+rds&&4
+ds,&&3
+, W&&4
+ Wa&&1
+Wat&&1
+atc&&1
+tch&&3
+chm&&1
+hme&&1
+en,&&4
+, S&&1
+ Se&&2
+Ser&&2
+nts&&4
+ts,&&3
+d A&&2
+ At&&1
+Att&&1
+tte&&5
+ten&&2
+nda&&1
+dan&&1
+ts.&&1
+.  &&2
+  S&&1
+ SC&&1
+SCE&&1
+CEN&&1
+ENE&&1
+NE.&&1
+E.-&&1
+.--&&1
+--V&&1
+-Ve&&1
+ntu&&2
+tua&&1
+ua.&&1
+  T&&1
+E P&&1
+ PR&&4
+PRO&&4
+ROL&&1
+OLO&&1
+LOG&&1
+OGU&&1
+GUE&&1
+UE &&1
+E E&&1
+ En&&9
+Ent&&9
+nte&&9
+r C&&2
+or.&&1
+ Tw&&1
+Two&&1
+seh&&1
+eho&&1
+hol&&2
+lds&&1
+, b&&6
+h a&&1
+ al&&3
+ali&&2
+lik&&1
+ike&&4
+ke &&8
+e i&&11
+ in&&6
+in &&8
+n d&&1
+ di&&2
+dig&&1
+ign&&1
+gni&&1
+nit&&1
+ity&&1
+ty,&&1
+, I&&6
+ In&&1
+In &&1
+n f&&2
+fai&&1
+air&&2
+ir &&13
+r V&&1
+na,&&1
+a, &&1
+ wh&&7
+whe&&1
+ere&&8
+ we&&10
+we &&3
+e l&&3
+ la&&3
+lay&&1
+ay &&3
+y o&&1
+ ou&&8
+our&&16
+ur &&13
+r s&&6
+ sc&&1
+sce&&1
+cen&&2
+ene&&3
+ne,&&1
+Fro&&2
+rom&&5
+om &&5
+m a&&4
+cie&&1
+t g&&2
+ gr&&1
+gru&&1
+rud&&1
+udg&&1
+dge&&1
+ge &&4
+e b&&3
+ br&&1
+bre&&1
+rea&&1
+eak&&4
+ak &&2
+k t&&2
+o n&&2
+new&&1
+w m&&2
+ mu&&2
+mut&&1
+tin&&2
+iny&&1
+ny,&&1
+ Wh&&10
+Whe&&2
+e c&&6
+ ci&&2
+civ&&2
+ivi&&2
+vil&&3
+il &&3
+l b&&4
+ bl&&4
+blo&&3
+loo&&3
+ood&&3
+od &&2
+d m&&2
+ ma&&13
+mak&&1
+s c&&2
+l h&&1
+ ha&&7
+han&&2
+nds&&3
+s u&&1
+ un&&1
+unc&&1
+ncl&&1
+cle&&1
+lea&&1
+ean&&2
+m f&&2
+ fo&&12
+for&&8
+ort&&2
+rth&&2
+h t&&7
+e f&&6
+fat&&1
+ata&&1
+tal&&2
+al &&1
+l l&&1
+ lo&&5
+loi&&1
+oin&&1
+hes&&4
+ese&&3
+o f&&1
+foe&&2
+oes&&2
+s A&&1
+ A &&5
+A p&&2
+ pa&&10
+pai&&2
+r o&&2
+f s&&1
+ st&&12
+sta&&6
+tar&&1
+ar-&&1
+r-c&&1
+-cr&&1
+cro&&1
+ros&&1
+oss&&1
+ss'&&1
+s'd&&1
+'d &&3
+d l&&3
+lov&&2
+ove&&10
+ver&&3
+rs &&4
+s t&&15
+ ta&&6
+tak&&5
+hei&&10
+eir&&10
+r l&&1
+ li&&4
+lif&&1
+fe;&&1
+e; &&4
+; W&&1
+Who&&1
+hos&&2
+ose&&2
+e m&&15
+ mi&&2
+mis&&2
+isa&&3
+sad&&1
+adv&&1
+dve&&1
+ven&&1
+tur&&3
+ur'&&1
+r'd&&1
+d p&&2
+ pi&&2
+pit&&2
+ite&&8
+teo&&1
+eou&&1
+us &&5
+ ov&&1
+ert&&1
+thr&&4
+hro&&1
+row&&2
+ows&&2
+ws &&2
+s D&&1
+ Do&&6
+Dot&&1
+h w&&1
+r d&&2
+ de&&3
+dea&&3
+eat&&5
+ath&&3
+h b&&1
+ bu&&5
+bur&&1
+ury&&1
+ry &&3
+y t&&6
+r p&&4
+par&&5
+ts'&&2
+s' &&3
+' s&&1
+str&&4
+tri&&5
+rif&&1
+fe.&&5
+The&&9
+ fe&&4
+fea&&2
+arf&&1
+rfu&&1
+ful&&1
+ul &&1
+l p&&2
+pas&&2
+ass&&2
+ssa&&1
+sag&&1
+th-&&1
+h-m&&1
+-ma&&1
+mar&&2
+ark&&1
+rk'&&1
+k'd&&1
+ve,&&3
+, A&&3
+And&&2
+ co&&9
+con&&1
+nti&&1
+inu&&1
+nua&&1
+uan&&1
+' r&&1
+ ra&&2
+rag&&2
+ge,&&1
+Whi&&1
+hic&&3
+ich&&3
+ch,&&2
+h, &&2
+but&&3
+ut &&9
+r c&&1
+ ch&&2
+chi&&1
+hil&&3
+ild&&1
+ldr&&1
+dre&&1
+en'&&1
+n's&&2
+s e&&1
+ en&&2
+nd,&&2
+d, &&7
+ na&&2
+nau&&1
+ht &&2
+t c&&2
+cou&&1
+oul&&2
+uld&&2
+d r&&2
+ re&&2
+rem&&2
+emo&&1
+mov&&7
+ Is&&2
+Is &&2
+ no&&11
+now&&3
+ow &&3
+rs'&&1
+' t&&1
+ tr&&2
+tra&&1
+raf&&1
+aff&&1
+ic &&2
+c o&&1
+f o&&3
+ge;&&1
+; T&&1
+whi&&4
+h i&&2
+ if&&7
+if &&7
+f y&&4
+ou &&23
+u w&&2
+h p&&2
+pat&&1
+tie&&1
+t e&&1
+ars&&1
+att&&1
+Wha&&5
+hat&&13
+t h&&4
+e s&&3
+ sh&&8
+sha&&5
+hal&&5
+all&&12
+ll &&21
+l m&&2
+iss&&2
+ss,&&1
+toi&&1
+oil&&1
+l s&&3
+riv&&1
+ive&&3
+ve &&7
+o m&&2
+ me&&16
+nd.&&3
+d. &&4
+. [&&4
+ [E&&1
+[Ex&&1
+Exi&&1
+xit&&1
+it.&&3
+t.]&&1
+.] &&2
+] <&&1
+ <<&&1
+<<T&&1
+<TH&&1
+THI&&1
+HIS&&1
+IS &&3
+S E&&1
+ EL&&2
+ELE&&2
+LEC&&2
+ECT&&3
+CTR&&2
+TRO&&2
+RON&&2
+ONI&&2
+NIC&&2
+IC &&2
+C V&&1
+ VE&&1
+VER&&2
+ERS&&5
+RSI&&2
+SIO&&2
+ION&&3
+ON &&3
+N O&&1
+F T&&1
+E C&&2
+ CO&&6
+COM&&3
+OMP&&1
+MPL&&1
+PLE&&1
+LET&&1
+ETE&&2
+TE &&1
+E W&&1
+ WO&&2
+WOR&&2
+ORK&&1
+RKS&&1
+KS &&1
+S O&&1
+F W&&1
+ WI&&2
+WIL&&1
+ILL&&1
+LLI&&1
+LIA&&1
+IAM&&1
+AM &&1
+M S&&1
+ SH&&1
+SHA&&1
+HAK&&1
+AKE&&1
+KES&&1
+ESP&&1
+SPE&&1
+PEA&&1
+EAR&&1
+ARE&&3
+RE &&3
+E I&&1
+ IS&&2
+S C&&1
+COP&&3
+OPY&&1
+PYR&&1
+YRI&&1
+RIG&&1
+IGH&&1
+GHT&&1
+HT &&1
+T -&&1
+ - &&1
+- B&&1
+ BY&&3
+BY &&3
+Y W&&2
+ORL&&1
+RLD&&1
+LD &&1
+D L&&1
+ LI&&1
+LIB&&1
+IBR&&1
+BRA&&1
+RAR&&1
+ARY&&1
+RY,&&1
+Y, &&2
+ IN&&2
+INC&&2
+NC.&&1
+C.,&&1
+., &&1
+D I&&1
+S P&&2
+ROV&&1
+OVI&&1
+VID&&1
+IDE&&1
+DED&&1
+ED &&5
+D B&&1
+Y P&&1
+ROJ&&1
+OJE&&1
+JEC&&1
+CT &&2
+T G&&1
+ GU&&1
+GUT&&1
+UTE&&3
+TEN&&1
+ENB&&1
+NBE&&1
+BER&&2
+ERG&&1
+RG &&1
+G E&&1
+ ET&&1
+TEX&&1
+EXT&&1
+XT &&1
+T O&&1
+F C&&1
+ CA&&1
+CAR&&1
+ARN&&1
+RNE&&1
+NEG&&1
+EGI&&1
+GIE&&1
+IE &&1
+E M&&1
+ ME&&2
+MEL&&1
+ELL&&1
+LLO&&1
+LON&&2
+N U&&1
+ UN&&1
+UNI&&1
+NIV&&1
+IVE&&1
+SIT&&1
+ITY&&1
+TY &&1
+WIT&&1
+ITH&&1
+TH &&1
+H P&&1
+ PE&&2
+PER&&2
+ERM&&1
+RMI&&1
+MIS&&1
+ISS&&1
+SSI&&1
+ON.&&1
+N. &&1
+C A&&1
+D M&&1
+ MA&&2
+MAC&&1
+ACH&&1
+CHI&&1
+HIN&&1
+INE&&1
+NE &&1
+E R&&1
+ RE&&1
+REA&&1
+EAD&&1
+ADA&&1
+DAB&&1
+ABL&&1
+BLE&&1
+LE &&1
+OPI&&2
+PIE&&2
+IES&&2
+ES &&4
+S M&&1
+MAY&&1
+AY &&1
+Y B&&1
+ BE&&1
+BE &&1
+E D&&1
+ DI&&3
+DIS&&3
+IST&&3
+STR&&3
+TRI&&3
+RIB&&3
+IBU&&3
+BUT&&3
+TED&&3
+D S&&1
+ SO&&1
+SO &&1
+O L&&1
+ LO&&1
+ONG&&1
+NG &&1
+G A&&1
+ AS&&1
+AS &&1
+S S&&1
+ SU&&1
+SUC&&1
+UCH&&1
+CH &&1
+H C&&1
+S (&&1
+ ()&&2
+() &&2
+) A&&2
+ AR&&2
+E F&&1
+ FO&&3
+FOR&&3
+OR &&6
+R Y&&1
+ YO&&1
+YOU&&1
+OUR&&1
+UR &&1
+R O&&2
+ OR&&3
+ OT&&1
+OTH&&1
+HER&&1
+RS &&1
+RSO&&1
+SON&&1
+ONA&&1
+NAL&&1
+AL &&2
+L U&&1
+ US&&2
+USE&&2
+SE &&1
+E O&&2
+ ON&&1
+ONL&&1
+NLY&&1
+LY,&&1
+D (&&1
+E N&&1
+ NO&&1
+NOT&&1
+OT &&1
+T D&&1
+D O&&1
+R U&&1
+SED&&1
+D C&&2
+OMM&&2
+MME&&2
+MER&&2
+ERC&&2
+RCI&&2
+CIA&&2
+IAL&&2
+ALL&&1
+LLY&&1
+LY.&&1
+Y. &&1
+ROH&&1
+OHI&&1
+HIB&&1
+IBI&&1
+BIT&&1
+ITE&&1
+L D&&1
+UTI&&1
+TIO&&1
+N I&&1
+NCL&&1
+CLU&&1
+LUD&&1
+UDE&&1
+DES&&1
+S B&&1
+Y A&&1
+ANY&&1
+NY &&1
+Y S&&1
+ SE&&1
+SER&&1
+ERV&&1
+RVI&&1
+VIC&&1
+ICE&&1
+CE &&1
+THA&&1
+HAT&&1
+AT &&1
+T C&&1
+ CH&&1
+CHA&&1
+HAR&&1
+ARG&&1
+RGE&&1
+GES&&1
+S F&&1
+R D&&1
+ DO&&1
+DOW&&1
+OWN&&1
+WNL&&1
+NLO&&1
+LOA&&1
+OAD&&1
+AD &&1
+D T&&1
+ TI&&1
+TIM&&1
+IME&&1
+ME &&1
+R F&&1
+R M&&1
+MEM&&1
+EMB&&1
+MBE&&1
+RSH&&1
+SHI&&1
+HIP&&1
+IP.&&1
+P.>&&1
+.>>&&1
+>> &&1
+> A&&1
+ AC&&1
+ACT&&1
+T I&&1
+ I.&&2
+I. &&2
+ Sc&&1
+Sce&&1
+ne &&3
+e I&&3
+. V&&1
+ pu&&3
+pub&&1
+ubl&&1
+bli&&1
+lic&&1
+c p&&1
+ pl&&1
+pla&&1
+lac&&1
+ace&&5
+r S&&2
+y (&&1
+ (w&&1
+(wi&&1
+h s&&1
+ sw&&8
+swo&&7
+wor&&9
+ord&&9
+d b&&2
+buc&&1
+uck&&1
+ckl&&3
+kle&&1
+ler&&2
+rs)&&1
+s) &&1
+) o&&1
+e h&&7
+f C&&1
+mp.&&20
+p. &&22
+ on&&4
+n m&&1
+ my&&8
+my &&7
+y w&&1
+ wo&&3
+rd,&&4
+we'&&2
+e'l&&2
+'ll&&2
+l n&&1
+not&&9
+ot &&8
+ ca&&2
+arr&&6
+rry&&2
+y c&&2
+coa&&1
+oal&&1
+als&&1
+ls.&&1
+eg.&&15
+g. &&15
+ No&&6
+No,&&4
+, f&&3
+or &&8
+hen&&2
+n w&&6
+sho&&3
+ be&&15
+be &&5
+col&&2
+oll&&2
+ier&&1
+rs.&&1
+. I&&10
+ I &&24
+I m&&1
+mea&&1
+n c&&1
+cho&&1
+ole&&1
+l d&&1
+ dr&&4
+dra&&4
+raw&&6
+aw.&&1
+w. &&2
+ Ay&&2
+Ay,&&2
+ile&&2
+le &&4
+e y&&3
+u l&&2
+liv&&1
+aw &&4
+w y&&1
+r n&&1
+nec&&1
+eck&&1
+ck &&3
+k o&&2
+out&&2
+t o&&2
+f c&&1
+lla&&2
+lar&&1
+ar.&&1
+I s&&4
+rik&&3
+e q&&2
+ qu&&5
+qui&&2
+uic&&2
+ick&&2
+kly&&2
+ly,&&1
+bei&&2
+ein&&3
+ing&&5
+g m&&1
+ mo&&6
+ved&&3
+ed.&&1
+ Bu&&2
+But&&2
+tho&&9
+u a&&3
+ ar&&5
+art&&9
+rt &&5
+t n&&4
+t q&&2
+ly &&1
+y m&&4
+ed &&3
+o s&&6
+ke.&&1
+A d&&2
+ do&&9
+dog&&2
+og &&2
+g o&&2
+f M&&3
+ue &&3
+ves&&2
+s m&&3
+me.&&3
+To &&1
+ is&&8
+sti&&2
+tir&&2
+ir,&&3
+o b&&4
+e v&&1
+val&&1
+t i&&5
+tan&&3
+ref&&3
+efo&&3
+ore&&3
+re,&&2
+, i&&3
+t m&&2
+ed,&&1
+, t&&3
+u r&&1
+ ru&&2
+run&&2
+unn&&1
+nn'&&1
+'st&&1
+st &&6
+t a&&2
+ aw&&1
+awa&&1
+way&&1
+ay.&&1
+me &&6
+I w&&8
+wil&&9
+l t&&3
+ wa&&5
+wal&&5
+l o&&2
+f a&&2
+any&&1
+ny &&1
+ or&&4
+r m&&6
+mai&&6
+aid&&6
+id &&1
+d o&&1
+ue'&&2
+e's&&2
+'s.&&1
+Tha&&2
+t s&&3
+how&&2
+hee&&6
+a w&&1
+wea&&4
+k s&&1
+ sl&&1
+sla&&1
+lav&&1
+ave&&3
+ve;&&1
+; f&&1
+est&&1
+ go&&4
+goe&&1
+ll.&&3
+l. &&3
+. '&&3
+ 'T&&3
+'Ti&&3
+Tis&&3
+tru&&1
+rue&&2
+ue;&&1
+; a&&2
+g t&&2
+r v&&2
+ ve&&2
+ess&&2
+sse&&1
+sel&&2
+els&&1
+ls,&&2
+e e&&1
+ ev&&1
+eve&&1
+hru&&2
+ust&&3
+pus&&1
+ush&&1
+sh &&1
+h M&&1
+fro&&4
+m t&&3
+l a&&1
+ hi&&7
+his&&8
+ids&&4
+qua&&2
+rre&&4
+rel&&4
+el &&4
+l i&&2
+s b&&3
+bet&&4
+etw&&1
+twe&&1
+wee&&1
+een&&2
+mas&&2
+ast&&3
+ste&&3
+d u&&1
+ us&&4
+en.&&5
+one&&3
+ne.&&1
+mys&&1
+yse&&1
+elf&&1
+lf &&1
+a t&&1
+ ty&&1
+tyr&&1
+yra&&1
+nt.&&1
+. W&&6
+n I&&2
+I h&&3
+hav&&1
+fou&&3
+oug&&1
+t w&&2
+ cr&&3
+cru&&3
+uel&&1
+l w&&2
+ds-&&1
+s- &&1
+- I&&1
+l c&&1
+ cu&&1
+off&&2
+ff &&1
+r h&&1
+ds.&&4
+ds?&&2
+s? &&3
+? S&&4
+ide&&6
+den&&1
+enh&&1
+nhe&&1
+ Ta&&1
+Tak&&1
+ it&&6
+it &&4
+wha&&2
+sen&&2
+nse&&2
+ilt&&1
+lt.&&2
+hey&&8
+ey &&8
+mus&&1
+n s&&2
+fee&&2
+eel&&3
+Me &&1
+y s&&4
+l f&&2
+I a&&2
+ am&&4
+ ab&&1
+abl&&1
+ble&&1
+nd;&&1
+d; &&1
+d '&&1
+ 't&&1
+'ti&&1
+s k&&2
+ kn&&2
+kno&&2
+own&&7
+wn &&6
+a p&&1
+ pr&&1
+pre&&1
+ret&&1
+ett&&4
+tty&&1
+ty &&1
+y p&&1
+pie&&1
+iec&&1
+ece&&1
+f f&&1
+ fl&&2
+fle&&1
+les&&2
+esh&&1
+sh.&&1
+h. &&2
+s w&&2
+wel&&1
+ell&&4
+ fi&&4
+fis&&1
+ish&&2
+sh;&&1
+h; &&1
+; i&&1
+u h&&2
+had&&2
+dst&&2
+st,&&1
+t b&&2
+bee&&1
+n p&&2
+ po&&1
+poo&&1
+oor&&1
+or-&&1
+r-J&&1
+-Jo&&1
+hn.&&1
+. D&&6
+thy&&5
+hy &&6
+too&&1
+ool&&2
+ol!&&1
+l! &&2
+! H&&1
+ He&&2
+Her&&2
+com&&3
+mes&&2
+o o&&2
+ues&&3
+es.&&1
+rvi&&1
+vin&&1
+ngm&&1
+gme&&1
+n [&&1
+ [A&&1
+[Ab&&1
+d B&&1
+ar]&&1
+r].&&1
+]. &&1
+ My&&2
+My &&2
+y n&&2
+nak&&1
+ked&&1
+d w&&1
+eap&&1
+apo&&1
+pon&&2
+n i&&1
+ut.&&1
+. Q&&2
+ Qu&&2
+Qua&&2
+el!&&1
+! I&&1
+ ba&&2
+bac&&2
+ack&&2
+ee.&&2
+. H&&2
+ Ho&&2
+How&&1
+ow?&&1
+w? &&1
+? t&&1
+ tu&&1
+urn&&2
+rn &&2
+y b&&2
+k a&&2
+un?&&1
+n? &&1
+ Fe&&1
+Fea&&1
+e n&&2
+ot.&&1
+, m&&1
+I f&&1
+ee!&&1
+e! &&2
+! S&&2
+ Le&&1
+Let&&1
+t u&&5
+law&&2
+w o&&2
+ si&&14
+sid&&5
+des&&1
+; l&&1
+ le&&3
+hem&&5
+em &&3
+m b&&1
+beg&&1
+egi&&1
+gin&&1
+in.&&2
+ as&&5
+as &&5
+s I&&2
+I p&&1
+ss &&2
+by,&&1
+y l&&2
+lis&&1
+ist&&1
+st.&&1
+ Na&&1
+Nay&&1
+ay,&&1
+y d&&2
+dar&&1
+re.&&1
+ bi&&7
+bit&&6
+te &&9
+thu&&6
+hum&&6
+umb&&6
+mb &&4
+b a&&4
+em;&&1
+m; &&1
+; w&&1
+s d&&2
+dis&&1
+isg&&1
+sgr&&1
+gra&&1
+rac&&1
+em,&&1
+r i&&1
+br.&&5
+Do &&3
+o y&&3
+u b&&4
+sir&&12
+ir?&&4
+r? &&5
+I d&&3
+do &&3
+mb,&&2
+b, &&2
+ir.&&5
+ [a&&3
+[as&&3
+asi&&3
+de &&5
+o G&&1
+ry]&&1
+y] &&1
+] I&&1
+f I&&1
+ sa&&2
+say&&2
+y a&&1
+ ay&&1
+ay?&&1
+y? &&1
+? G&&2
+o S&&2
+on]&&2
+n] &&2
+] N&&1
+No.&&1
+t y&&2
+ou,&&1
+u, &&1
+ir;&&1
+r; &&1
+; b&&1
+t I&&1
+I b&&1
+u q&&1
+el,&&2
+l, &&4
+? A&&1
+? N&&1
+u d&&3
+do,&&1
+r y&&1
+ou.&&2
+u. &&2
+rve&&1
+s g&&2
+goo&&1
+d a&&1
+a m&&1
+s y&&1
+No &&1
+ We&&1
+Wel&&1
+ll,&&2
+r B&&1
+io.&&1
+] S&&1
+Say&&1
+y '&&1
+ 'b&&1
+'be&&1
+r.'&&1
+.' &&1
+' H&&1
+f m&&2
+er'&&1
+r's&&1
+sme&&1
+. Y&&3
+ Ye&&1
+Yes&&1
+ Yo&&2
+You&&2
+ie.&&1
+aw,&&1
+w, &&1
+, r&&1
+mem&&1
+emb&&1
+mbe&&1
+ber&&1
+swa&&1
+was&&1
+ash&&1
+shi&&1
+hin&&2
+g b&&1
+low&&1
+ow.&&1
+y f&&2
+fig&&2
+igh&&3
+ht.&&2
+rt,&&1
+foo&&2
+ols&&1
+ls!&&1
+s! &&5
+! [&&1
+ [B&&1
+[Be&&1
+Bea&&1
+ats&&1
+ts &&1
+dow&&2
+s.]&&1
+] P&&1
+ Pu&&2
+Put&&2
+ up&&3
+up &&2
+p y&&1
+u k&&1
+w n&&1
+do.&&1
+r T&&1
+yb.&&2
+b. &&2
+at,&&3
+awn&&2
+amo&&1
+mon&&1
+ong&&2
+rtl&&1
+s h&&2
+ind&&1
+? T&&1
+ Tu&&1
+Tur&&1
+e B&&1
+io!&&1
+o! &&3
+! l&&1
+ook&&1
+ok &&1
+k u&&1
+upo&&1
+th.&&1
+t k&&1
+ ke&&1
+kee&&1
+eep&&1
+ep &&1
+p t&&2
+e p&&1
+ pe&&4
+, O&&1
+ Or&&1
+Or &&1
+ana&&1
+nag&&1
+o p&&2
+h m&&1
+wn,&&2
+alk&&1
+lk &&1
+f p&&1
+ce?&&1
+e? &&1
+? I&&1
+ate&&2
+rd &&1
+ As&&1
+As &&1
+hel&&1
+l M&&1
+ Ha&&1
+Hav&&1
+ee,&&1
+, c&&1
+cow&&1
+owa&&1
+war&&1
+rd!&&1
+d! &&1
+! T&&1
+r a&&2
+r f&&1
+h c&&1
+ cl&&1
+clu&&1
+lub&&2
+ubs&&2
+bs &&1
+rti&&2
+san&&2
+. O&&1
+ Cl&&1
+Clu&&1
+bs,&&1
+bil&&1
+lls&&1
+ns!&&2
+ St&&1
+Str&&1
+ke!&&1
+! b&&1
+m d&&1
+wn!&&1
+n! &&1
+! C&&1
+Dow&&2
+ets&&1
+ts!&&1
+! D&&1
+es!&&1
+! E&&1
+r O&&2
+ Ol&&3
+Old&&3
+d C&&1
+n h&&1
+gow&&1
+d h&&2
+s W&&2
+Wif&&4
+ap.&&2
+noi&&1
+ois&&1
+ise&&1
+thi&&2
+is?&&1
+ Gi&&1
+Giv&&1
+lon&&1
+g s&&1
+ho!&&2
+! W&&2
+A c&&1
+rut&&2
+utc&&2
+a c&&1
+ch!&&1
+h! &&1
+Why&&1
+l y&&1
+u f&&1
+a s&&1
+rd?&&1
+d? &&1
+? C&&1
+ay!&&1
+y! &&1
+! O&&2
+e A&&1
+flo&&1
+lou&&1
+uri&&1
+she&&1
+bla&&1
+lad&&1
+ade&&1
+ sp&&1
+spi&&1
+on.&&1
+Tho&&2
+u v&&1
+ vi&&1
+lai&&1
+ain&&5
+n C&&1
+et!&&1
+t!-&&1
+!- &&1
+- H&&1
+Hol&&1
+ot,&&1
+, l&&1
+e g&&1
+go.&&1
+ M.&&1
+M. &&1
+u s&&1
+lt &&1
+oot&&1
+see&&1
+eek&&1
+ek &&1
+a f&&1
+oe.&&1
+r P&&1
+e E&&1
+s T&&1
+ Tr&&1
+Tra&&1
+rai&&1
+ Re&&1
+Reb&&1
+ebe&&1
+bel&&1
+iou&&2
+s s&&1
+ su&&1
+sub&&1
+ubj&&1
+bje&&1
+jec&&1
+ect&&1
+cts&&1
+, e&&1
+nem&&1
+emi&&1
+mie&&1
+ies&&1
+Pro&&1
+rof&&1
+ofa&&1
+fan&&1
+ane&&1
+ner&&1
+nei&&1
+eig&&1
+ghb&&1
+hbo&&1
+bou&&1
+ur-&&1
+r-s&&1
+-st&&1
+tai&&2
+ine&&1
+ned&&1
+d s&&1
+tee&&1
+el-&&1
+l- &&1
+- W&&1
+ar?&&1
+? W&&1
+! y&&1
+u m&&1
+, y&&1
+eas&&1
+sts&&1
+que&&1
+uen&&1
+nch&&1
+fir&&1
+ire&&1
+per&&1
+ern&&1
+rni&&1
+nic&&1
+cio&&1
+s r&&1
+e W&&1
+Wit&&1
+pur&&1
+urp&&1
+rpl&&1
+ple&&1
+s i&&1
+ssu&&1
+sui&&1
+uin&&1
+g f&&1
+m y&&1
+vei&&1
+ On&&1
+On &&1
+tor&&1
+rtu&&1
+ody&&1
+y h&&1
